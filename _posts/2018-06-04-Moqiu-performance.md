@@ -22,7 +22,7 @@ The Hmong religion is traditionally animist. In traditional Hmong practice, *all
 </font>
 
 <img src="friendred_blog/assets/images/moqiu.jpg" alt="Girl in a jacket" width="300">
-<img src="friendred_blog/assets/images/moqiu.jpg" width="300">
+<img src="friendred_blog/assets/images/moqiu2.jpg" alt="Girl in a jacket" width="300">
 
 <font size="2">
 In a different cultural context, animism, which encompasses the beliefs that all material phenomenon has agency, can be presented by a different people in a different way. In the Hmong community as well as in other cultures such as Yi, Hani, Zhuang and etc. In this ritual, people will lean their waist on the side of the beam. Performers spin and jump using their tiptoes. This swing-like ritual behavior was used to symbolize the anticipation of Hmong to contact the deities.  Before the spiritual practice, a priest will produce the worship ceremony. Traditionally, they sprinkle liquor up, down, left and right, a this is necessary to revere and honor the sky, soil, ancestors and deities for guidance and protection. Pork will be piled in the intersection of two beams to intensify grating for gaining welfare and health of the living.
