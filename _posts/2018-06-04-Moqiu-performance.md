@@ -1,4 +1,4 @@
----
+movement---
 layout: post
 title: "Moqiu performance"
 description: "working progress"
@@ -54,14 +54,19 @@ Before I officially start fabricating the installation and in order to make sure
 </font>
 
 
-<img src="/friendred_blog/assets/images/card1.JPG" width="320">
-<img src="/friendred_blog/assets/images/card2.JPG" width="320">
-<img src="/friendred_blog/assets/images/card3.JPG" width="320">
-<img src="/friendred_blog/assets/images/card4.JPG" width="320">
+<img src="/friendred_blog/assets/images/card1.JPG" width="340">
+<img src="/friendred_blog/assets/images/card2.JPG" width="340">
+<img src="/friendred_blog/assets/images/card3.JPG" width="340">
+<img src="/friendred_blog/assets/images/card4.JPG" width="340">
 
 ##Laser
-another main part of the piece is laser system
 
-<img src="/friendred_blog/assets/images/laser_case.png">
-<img src="/friendred_blog/assets/images/scene_3_1.jpg" width="320">
-<img src="/friendred_blog/assets/images/scene_4.jpg" width="320">
+<font size="2">
+Another main part of the piece is a laser system mounted onto the circle installation and interactively controlled by performers, kinect will be used to detect the dancer's skeleton and trajectory of the movements and
+</font>
+
+<img src="/friendred_blog/assets/images/laser_case.png" width="320">
+<img src="/friendred_blog/assets/images/scene_3_1.jpg" width="340">
+<img src="/friendred_blog/assets/images/scene_4.jpg" width="340">
+
+##software
