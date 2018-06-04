@@ -36,6 +36,7 @@ The human body and technology extend the way how people perceive culture and ide
 
 -----
 ##Fabrication:
+###Circle structure
 <font size="2">
 This piece ideally should be hanging on the ceiling, the stepper motor (Fig.5) on the top would control the ‘circle’ spin horizontally and the other two motors (Fig.2) on the side will be used to making the pipe (Fig.1) move vertically. The profile of the circle (Fig.3) is a ‘U’ shape, which LED strip can be put in the notch of the circle.
 One of the biggest challenge is the fabrication of the installation, the material could be aluminium, plywood or acrylic. The idea material is aluminium, which economically more expansive than the plywood and technically harder to fabricate.
@@ -44,3 +45,7 @@ One of the biggest challenge is the fabrication of the installation, the materia
 <img src="/friendred_blog/assets/images/joints_v13.png">
 <img src="/friendred_blog/assets/images/joints_v14.png">
 <img src="/friendred_blog/assets/images/joints_v15.png">
+
+<iframe src="https://myhub.autodesk360.com/ue2b9330b/shares/public/SHabee1QT1a327cf2b7a882814bc2999f992?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+##Laser
