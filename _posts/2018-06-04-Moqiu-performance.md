@@ -49,10 +49,13 @@ One of the biggest challenge is the fabrication of the installation, the materia
 <iframe src="https://myhub.autodesk360.com/ue2b9330b/shares/public/SHabee1QT1a327cf2b7a882814bc2999f992?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ###prototype
+<font size="2">
 Before I officially start fabricating the installation and in order to make sure the size and appearance are close to the design I engeneered in the Fusion and Cinema4D, the best way to do is the prototype. I, hence, made a 1:1 ratio mockup made by cardboard (12 pieces) and sliced by Fusion Slicer.
+</font>
 
 <img src="/friendred_blog/assets/images/card1.JPG" width="320">
 <img src="/friendred_blog/assets/images/card2.JPG" width="320">
 <img src="/friendred_blog/assets/images/card3.JPG" width="320">
 <img src="/friendred_blog/assets/images/card4.JPG" width="320">
+
 ##Laser
