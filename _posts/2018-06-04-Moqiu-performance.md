@@ -22,7 +22,8 @@ The Hmong religion is traditionally animist. In traditional Hmong practice, *all
 </font>
 
 ![Large example image](http://placehold.it/800x400 "Large example image")
-<img src="/assets/images/moqiu.jpg" alt="Girl in a jacket" width="500">
+
+<img src="/friendred_blog/assets/images/moqiu.jpg" alt="Girl in a jacket" width="500">
 
 ![Large example image](/assets/images/moqiu.jpg "Large example image")
 
