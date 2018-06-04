@@ -21,9 +21,8 @@ I will combine Hmong society and rituals into a body commanding performance. Thr
 The Hmong religion is traditionally animist. In traditional Hmong practice, *all animate and inanimate matter possesses life.* The aim of this performance is to use unusual digital techniques to restore, deconstruct and reconstruct the manifesto of the ritual being represented by technology. Different cultures and religions have their own mythologies and rituals. Several topics will be covered, for example, ‘Moqiu’ (Fig.1), a ritual which Hmong people celebrate in May of the Lunar calendar to memorize the myth in which ‘Moqiu’ was built to communicate with the sun by ancestors to stop them suffering from catastrophe and pestilence.
 </font>
 
-![Large example image](http://placehold.it/800x400 "Large example image")
+<img src="friendred_blog/assets/images/moqiu.jpg" alt="Girl in a jacket" width="300"> <img src="friendred_blog/assets/images/moqiu.jpg" width="300">
 
-<img src="/friendred_blog/assets/images/moqiu.jpg" alt="Girl in a jacket" width="500">
 
 ![Large example image](/assets/images/moqiu.jpg "Large example image")
 
