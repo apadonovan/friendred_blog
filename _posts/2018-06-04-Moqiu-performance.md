@@ -52,9 +52,9 @@ One of the biggest challenge is the fabrication of the installation, the materia
 Before I officially start fabricating the installation and in order to make sure the size and appearance are close to the design I engeneered in the Fusion and Cinema4D, the best way to do is the prototype. I, hence, made a 1:1 ratio mockup made by cardboard (12 pieces) and sliced by Fusion Slicer.
 </font>
 
-<img src="/friendred_blog/assets/images/board2.png" width="240">
-<img src="/friendred_blog/assets/images/board3.png" width="240">
-<img src="/friendred_blog/assets/images/board4.png" width="240">
+<img src="/friendred_blog/assets/images/board2.png" width="220">
+<img src="/friendred_blog/assets/images/board3.png" width="220">
+<img src="/friendred_blog/assets/images/board4.png" width="220">
 
 <img src="/friendred_blog/assets/images/card1.JPG" width="340">
 <img src="/friendred_blog/assets/images/card2.JPG" width="340">
@@ -69,8 +69,8 @@ Another main part of the piece is a laser system mounted onto the circle install
 </font>
 [//]: <> (<img src="/friendred_blog/assets/images/laser_case.png" width="320">)
 
-<img src="/friendred_blog/assets/images/scene_3_1.jpg" width="340">
-<img src="/friendred_blog/assets/images/scene_4.jpg" width="340">
+<img src="/friendred_blog/assets/images/scene_3_1.jpg">
+<img src="/friendred_blog/assets/images/scene_4.jpg">
 
 ##software
 
