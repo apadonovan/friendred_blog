@@ -46,7 +46,6 @@ One of the biggest challenge is the fabrication of the installation, the materia
 <img src="/friendred_blog/assets/images/joints_v14.png">
 <img src="/friendred_blog/assets/images/joints_v15.png">
 
-<iframe src="https://myhub.autodesk360.com/ue2b9330b/shares/public/SHabee1QT1a327cf2b7a882814bc2999f992?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ###prototype
 <font size="2">
@@ -56,6 +55,7 @@ Before I officially start fabricating the installation and in order to make sure
 
 <img src="/friendred_blog/assets/images/card1.JPG" width="340">
 <img src="/friendred_blog/assets/images/card2.JPG" width="340">
+
 <img src="/friendred_blog/assets/images/card3.JPG" width="340">
 <img src="/friendred_blog/assets/images/card4.JPG" width="340">
 
@@ -64,9 +64,15 @@ Before I officially start fabricating the installation and in order to make sure
 <font size="2">
 Another main part of the piece is a laser system mounted onto the circle installation and interactively controlled by performers, kinect will be used to detect the dancer's skeleton and trajectory of the movements and
 </font>
+[//]: <> (<img src="/friendred_blog/assets/images/laser_case.png" width="320">)
 
-<img src="/friendred_blog/assets/images/laser_case.png" width="320">
 <img src="/friendred_blog/assets/images/scene_3_1.jpg" width="340">
 <img src="/friendred_blog/assets/images/scene_4.jpg" width="340">
 
 ##software
+
+<font size="2">
+skeleton on the mac, torso position in the 3D space.
+
+
+</font>
