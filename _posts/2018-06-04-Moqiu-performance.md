@@ -70,6 +70,7 @@ Another main part of the piece is a laser system mounted onto the circle install
 [//]: <> (<img src="/friendred_blog/assets/images/laser_case.png" width="320">)
 
 <img src="/friendred_blog/assets/images/scene_3_1.jpg">
+
 <img src="/friendred_blog/assets/images/scene_4.jpg">
 
 ##software
