@@ -82,6 +82,8 @@ pinMode(9, OUTPUT);//step control
 ```
 SM1-SM2
 Microstep Select Resolution Truth Table
+To enable the motor to step in 1/8th microsteps, we must set MS1, and MS2 HIGH.
+| MS1	| MS2	| Microstep Resolution |
 | L	| L	| Full Step (2 Phase) |
 | H	| L	| Half Step |
 | L	| H	| Quarter Step |
