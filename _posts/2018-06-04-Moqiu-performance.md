@@ -73,6 +73,21 @@ Another main part of the piece is a laser system mounted onto the circle install
 
 <img src="/friendred_blog/assets/images/scene_4.jpg">
 
+##Motors
+Motor driver needs 12V (actually is 5V - 30V) driver supply; 200 full steps (1600 microsteops) per evolution, 360/200=1.8, one step is 1.8 degree
+SM1-SM2
+Microstep Select Resolution Truth Table
+| L	| L	| Full Step (2 Phase) |
+| H	| L	| Half Step |
+| L	| H	| Quarter Step |
+| H	| H	| Eigth Step |
+
+```java
+pinMode(8, OUTPUT);//direction control
+pinMode(9, OUTPUT);//step control
+```
+If you put delay(1), the compete pause will be 2ms per time, since 1000ms per second, so 1000/2=500ms per second
+
 ##software
 
 <font size="2">
