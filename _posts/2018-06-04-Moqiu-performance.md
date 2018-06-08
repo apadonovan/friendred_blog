@@ -46,6 +46,8 @@ One of the biggest challenge is the fabrication of the installation, the materia
 <img src="/friendred_blog/assets/images/joints_v14.png">
 <img src="/friendred_blog/assets/images/joints_v15.png">
 
+###Brainstorm
+<img src="/friendred_blog/assets/images/ideas.png">
 
 ###prototype
 <font size="2">
@@ -74,7 +76,11 @@ Another main part of the piece is a laser system mounted onto the circle install
 <img src="/friendred_blog/assets/images/scene_4.jpg">
 
 ##Motors
+unipolar and bipolar
+bilopar: each lead taken seperatly, Bi directional current flow through entire winding at a time
+unipolar: a Center tap added between the two leads, unidirectional flow in each 1/2 of winding, center tap connected to the ground or voltage source
 Motor driver needs 12V (actually is 5V - 30V) driver supply; 200 full steps (1600 microsteops) per evolution, 360/200=1.8, one step is 1.8 degree
+bipolar motor will generate more touque than unipolar, futhermore, unimotor need more wire, this will cause increse the parolause, winding increading temp, or you connetct bipolar configuration to unipolar
 
 ```java
 pinMode(8, OUTPUT);//direction control
