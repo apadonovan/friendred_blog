@@ -131,5 +131,3 @@ Fabricating metals, for now,  I fabricated the metal tructure consisted of two r
 4. the conection between the nylon thread and motor spinning pin
 5. you might also need some wholes for the wires get out of the structure
 5. polish and painting to avoid rust  
-
-<img src="/friendred_blog/assets/images/scene_4.jpg">
