@@ -80,19 +80,23 @@ Another main part of the piece is a laser system mounted onto the circle install
 <img src="/friendred_blog/assets/images/scene_4.jpg">
 
 ##Motors
-unipolar and bipolar
+unipolar and bipolar:
+<font size="2">
 bilopar: each lead taken seperatly, Bi directional current flow through entire winding at a time
 unipolar: a Center tap added between the two leads, unidirectional flow in each 1/2 of winding, center tap connected to the ground or voltage source
 Motor driver needs 12V (actually is 5V - 30V) driver supply; 200 full steps (1600 microsteops) per evolution, 360/200=1.8, one step is 1.8 degree
 bipolar motor will generate more touque than unipolar, futhermore, unimotor need more wire, this will cause increse the parolause, winding increading temp, or you connetct bipolar configuration to unipolar
 
 I connetced there stepper motors with three motor drivers. powerered by 12V 30A universal regulated switing power supply
-
+</font>
+<font size="2">
 ```java
 pinMode(8, OUTPUT);//direction control
 pinMode(9, OUTPUT);//step control
 ```
+</font>
 SM1-SM2
+<font size="2">
 Microstep Select Resolution Truth Table
 To enable the motor to step in 1/8th microsteps, we must set MS1, and MS2 HIGH.
 | MS1	| MS2	| Microstep Resolution |
@@ -112,18 +116,21 @@ for(x= 1; x<1000; x++)  //Loop the forward stepping enough times for motion to b
   delay(1);
 }
 ```
+</font>
 
+<font size="2">
 If you put delay(1), the compete pause will be 2ms per time, since 1000ms per second, so 1000/2=500ms per second
+</font>
 
 ##software
 
 <font size="2">
 skeleton on the mac, torso position in the 3D space.
 
-
 </font>
 
 ##software
+<font size="2">
 Fabricating metals, for now,  I fabricated the metal tructure consisted of two rings as well as the conjuctions of the rings, and top circle made by metal. via rolling machine, cutting, grinding, Plasma arc welding (PAW).
 1. The next step is considering how to drill the whole of top and bottom to fix the FDM or arcrylic board.
 2. how to fix the motor holder on the side of the rings
@@ -131,3 +138,4 @@ Fabricating metals, for now,  I fabricated the metal tructure consisted of two r
 4. the conection between the nylon thread and motor spinning pin
 5. you might also need some wholes for the wires get out of the structure
 5. polish and painting to avoid rust  
+</font>
