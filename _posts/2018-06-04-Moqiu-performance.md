@@ -52,7 +52,7 @@ One of the biggest challenge is the fabrication of the installation, the materia
 
 ###tech diagram
 <img src="/friendred_blog/assets/images/tech_diagram.png">
- 
+
 ###prototype
 <font size="2">
 Before I officially start fabricating the installation and in order to make sure the size and appearance are close to the design I engeneered in the Fusion and Cinema4D, the best way to do is the prototype. I, hence, made a 1:1 ratio mockup made by cardboard (12 pieces) and sliced by Fusion Slicer.
@@ -85,6 +85,8 @@ bilopar: each lead taken seperatly, Bi directional current flow through entire w
 unipolar: a Center tap added between the two leads, unidirectional flow in each 1/2 of winding, center tap connected to the ground or voltage source
 Motor driver needs 12V (actually is 5V - 30V) driver supply; 200 full steps (1600 microsteops) per evolution, 360/200=1.8, one step is 1.8 degree
 bipolar motor will generate more touque than unipolar, futhermore, unimotor need more wire, this will cause increse the parolause, winding increading temp, or you connetct bipolar configuration to unipolar
+
+I connetced there stepper motors with three motor drivers. powerered by 12V 30A universal regulated switing power supply
 
 ```java
 pinMode(8, OUTPUT);//direction control
@@ -120,3 +122,14 @@ skeleton on the mac, torso position in the 3D space.
 
 
 </font>
+
+##software
+Fabricating metals, for now,  I fabricated the metal tructure consisted of two rings as well as the conjuctions of the rings, and top circle made by metal. via rolling machine, cutting, grinding, Plasma arc welding (PAW).
+1. The next step is considering how to drill the whole of top and bottom to fix the FDM or arcrylic board.
+2. how to fix the motor holder on the side of the rings
+3. how to find a way to connetc 18+ lasers holder onto the two rings without damage it
+4. the conection between the nylon thread and motor spinning pin
+5. you might also need some wholes for the wires get out of the structure
+5. polish and painting to avoid rust  
+
+<img src="/friendred_blog/assets/images/scene_4.jpg">
