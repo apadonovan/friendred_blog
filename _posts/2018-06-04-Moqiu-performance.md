@@ -79,6 +79,10 @@ Another main part of the piece is a laser system mounted onto the circle install
 
 <img src="/friendred_blog/assets/images/scene_4.jpg">
 
+for the laser control, two elements that I needed to bare in mind is that shift register and laser base.
+for the base design, fistly I downloaded a model from thingnivers and designed a laser holder from.
+<img src="/friendred_blog/assets/images/laser_holder.png">
+
 ##Motors
 unipolar and bipolar:
 <font size="2">
@@ -129,13 +133,16 @@ skeleton on the mac, torso position in the 3D space.
 
 </font>
 
-##software
+##fabrication of the metal
 <font size="2">
 Fabricating metals, for now,  I fabricated the metal tructure consisted of two rings as well as the conjuctions of the rings, and top circle made by metal. via rolling machine, cutting, grinding, Plasma arc welding (PAW).
-1. The next step is considering how to drill the whole of top and bottom to fix the FDM or arcrylic board.
+1. The next step is considering how to drill the whole of top and bottom to fix the MDF or acrylic board. The solution is using 16 mils self drilling / contour sunk screw, it doesn't work with 9mm, but it works with 6mm MDF board via testing
 2. how to fix the motor holder on the side of the rings
 3. how to find a way to connetc 18+ lasers holder onto the two rings without damage it
-4. the conection between the nylon thread and motor spinning pin
+4. the conection between the nylon thread and motor spinning pin, I therefore used pulley to connect pin and thread (could be fine cored/ nylon, fish wire)
 5. you might also need some wholes for the wires get out of the structure
-5. polish and painting to avoid rust  
+6. polish and painting to avoid rust(for the polish I used grinder with different sharperness of the plan). The external circles comparally are easier to polish and grind, as the three different parts of the structure are different metal materials. However the cental disk is quite hard to grind, I guess I have to spay it by metallic paint.
+7. In the endm due to a the difficuilties of the grinding, so I have to just spay it (smooth silver direct onto metal), the metal part was good, however the MDF part in order to retrive a smooth surface, thsu I had to sparay multiple times, still not sure about the the result
 </font>
+what's the next step!!!!
+19th June--spend an day to drill the MDF and arcrylic board onto the structure, for the arcrylic, the frangibility of the material, so I had to drill a whole first, then use self drilling screws go through it.
