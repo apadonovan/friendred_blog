@@ -91,6 +91,9 @@ unipolar: a Center tap added between the two leads, unidirectional flow in each 
 Motor driver needs 12V (actually is 5V - 30V) driver supply; 200 full steps (1600 microsteops) per evolution, 360/200=1.8, one step is 1.8 degree
 bipolar motor will generate more touque than unipolar, futhermore, unimotor need more wire, this will cause increse the parolause, winding increading temp, or you connetct bipolar configuration to unipolar
 
+ideally you can put 59 motors on the prototype, I have got 40 lasers
+<>img src="/friendred_blog/assets/images/top_view_lasers.png"
+
 I connetced there stepper motors with three motor drivers. powerered by 12V 30A universal regulated switing power supply
 </font>
 <font size="2">
