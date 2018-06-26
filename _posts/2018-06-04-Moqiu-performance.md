@@ -32,6 +32,8 @@ In a different cultural context, animism, which encompasses the beliefs that all
 The human body and technology extend the way how people perceive culture and ideology during performance. My aim is to combine these two parts of the world, ritual and technology to create a new-age ritual. In this project, the Moqiu is part of the core ritual from the Hmong culture symbolising the worship, therefore I extracted the attributes of the balance out of bean and demonstrate in my concept design (picture below).  
 </font>
 
+<img src="/friendred_blog/assets/images/draft.jpg">
+
 <img src="/friendred_blog/assets/images/scene_2_2.jpg">
 
 -----
