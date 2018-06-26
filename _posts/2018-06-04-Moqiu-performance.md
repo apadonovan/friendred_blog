@@ -82,6 +82,7 @@ Another main part of the piece is a laser system mounted onto the circle install
 for the laser control, two elements that I needed to bare in mind is that shift register and laser base.
 for the base design, fistly I downloaded a model from thingnivers and designed a laser holder from.
 <img src="/friendred_blog/assets/images/laser_holder.png">
+<img src="/friendred_blog/assets/images/top_view_lasers.png">
 
 ##Motors
 unipolar and bipolar:
@@ -149,3 +150,12 @@ Fabricating metals, for now,  I fabricated the metal tructure consisted of two r
 </font>
 what's the next step!!!!
 19th June--spend an day to drill the MDF and arcrylic board onto the structure, for the arcrylic, the frangibility of the material, so I had to drill a whole first, then use self drilling screws go through it.
+
+<img src="/friendred_blog/assets/images/metal_1.JPG">
+
+<img src="/friendred_blog/assets/images/metal_2.JPG">
+
+
+##Wearable
+<img src="/friendred_blog/assets/images/mask.png">
+<img src="/friendred_blog/assets/images/mask_2.png">
