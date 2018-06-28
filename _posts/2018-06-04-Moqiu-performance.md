@@ -64,6 +64,10 @@ Before I officially start fabricating the installation and in order to make sure
 <img src="/friendred_blog/assets/images/board3.png" width="220">
 <img src="/friendred_blog/assets/images/board4.png" width="220">
 
+<iframe src="https://player.vimeo.com/video/277084253" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/277084253">IMG_8023</a> from <a href="https://vimeo.com/user41998022">Friendred</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
 <img src="/friendred_blog/assets/images/card1.JPG" width="340">
 <img src="/friendred_blog/assets/images/card2.JPG" width="340">
 
