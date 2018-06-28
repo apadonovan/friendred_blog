@@ -21,8 +21,6 @@ more reference --> [THE BOOK OF SHADER](https://thebookofshaders.com/05/?lan=ch)
 
 To modify styling and highlight colors edit `/_sass/_highlighter.scss`.
 
-<img src="/friendred_blog/assets/images/joints_v12.png">
-
 <img src = "/friendred_blog/assets/shader_blog/kynd_formular.png">
 
 ```css

@@ -1,11 +1,11 @@
----
+//---
 layout: post
 title: "Quick Start Guide"
 description: "How to setup and use the blog"
 date: 2017-07-21
 tags: jekyll
 comments: true
----
+//---
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
@@ -51,7 +51,7 @@ rake preview
 Then, go to your favorite brower and type in the address `http://127.0.0.1:YOUR_PORT_NUM_HERE` to preview your website.
 
 ### Customization
-To customize various details - title/description of the website, your SNS accout names, etc - edit the `_config.yml` file. 
+To customize various details - title/description of the website, your SNS accout names, etc - edit the `_config.yml` file.
 
 ### Adding posts
 ```
