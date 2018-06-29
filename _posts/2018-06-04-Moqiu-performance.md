@@ -90,6 +90,20 @@ for the base design, fistly I downloaded a model from thingnivers and designed a
 <img src="/friendred_blog/assets/images/laser_holder.png">
 <img src="/friendred_blog/assets/images/top_view_lasers.png">
 
+29th of June, the gole was trying to sorve the problem of conecting lasers to the laptop, Thanks to Roy, I could use the xBee (with XBee shield and XBee adaptor) to replace the wifi module, I haven't tried it yet, but will try it as soon as I received the conponenets. also with Roy's help, I could simulate the lasers, for now I managed to make a nice movement by
+
+```C++
+lasers[i].setPanTilt(pan, tilt);//this is the basic line of the test
+lasers[i].setPanTilt(sin(ofDegToRad(ofGetElapsedTimef()*10))*360*i/lasers.size(), tilt*i/lasers.size());
+```
+the next step is to make a system of how I decide the aesthetics of lasers movements following up the perormer
+and even with XBee wifi module, I still have to find a way to deconstruct and reconstruct the data from openframework to arduino, but bare that in mind, you will have 40 lasers -- 80 servermotors -- each modeule will have three pins, which means you will need a microcontroller have 40*3=120 pinouts, so for now I have a MEGA, then 53 pins, so maybe I need another two MEGA?
+
+<img src="/friendred_blog/assets/images/laser_simulation.png">
+<iframe src="https://player.vimeo.com/video/277711455" width="640" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/277711455">laser_simulation</a> from <a href="https://vimeo.com/user41998022">Friendred</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
 ##Motors
 unipolar and bipolar:
 <font size="2">
