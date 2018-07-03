@@ -179,3 +179,6 @@ what's the next step!!!!
 ##Wearable
 <img src="/friendred_blog/assets/images/mask.png">
 <img src="/friendred_blog/assets/images/mask_2.png">
+
+the face maks are for two different performers, the mask ideally would be made out of matel structure and using the two day/see through mirror arcylic board, thus when performers are wearing it, the other side can reflects the lights, the side close to performer can see through
+<img src="/friendred_blog/assets/images/face_mask_f.jpg">
