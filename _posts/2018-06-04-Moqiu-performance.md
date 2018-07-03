@@ -103,6 +103,9 @@ and even with XBee wifi module, I still have to find a way to deconstruct and re
 <iframe src="https://player.vimeo.com/video/277711455" width="640" height="380" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/277711455">laser_simulation</a> from <a href="https://vimeo.com/user41998022">Friendred</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
+for the working progree show, I will present the demosntration of how these 6 motors work in a sequence and get the data from openframwork via XBee and shield. Here is a monumental video for the first 6 haha
+
+<iframe src="https://player.vimeo.com/video/278129503" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ##Motors
 unipolar and bipolar:
