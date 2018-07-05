@@ -111,7 +111,8 @@ for the working progree show, I will present the demosntration of how these 6 mo
 
 for the next step if I want to make a specific pattern, I can try to make all the lasrts point to a specific location (this could be used as a part of the performance, for example all the laser point folloing up the daners torso position). I could also try to make a more complex pattern out of ot as long as I have the way to make a single point tilt and pan to a specifi clocation. so I could maybe use noise function to manipulate it. Also, you can make them swap the position since they had a sibsific shape, like cross, like square. that would be crazy
 
-<img src="/friendred_blog/assets/images/laser_simulation2.JPG">
+<img src="/friendred_blog/assets/images/Laser_simulation2.JPG">
+
 
 <iframe src="https://player.vimeo.com/video/278519822" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
