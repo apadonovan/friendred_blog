@@ -74,6 +74,7 @@ Before I officially start fabricating the installation and in order to make sure
 [//]: <> (<img src="/friendred_blog/assets/images/card3.JPG" width="340">)
 [//]: <> (<img src="/friendred_blog/assets/images/card4.JPG" width="340">)
 
+<img src="/friendred_blog/assets/images/prototype.png">
 ##Laser
 
 <font size="2">
@@ -87,7 +88,8 @@ Another main part of the piece is a laser system mounted onto the circle install
 
 for the laser control, two elements that I needed to bare in mind is that shift register and laser base.
 for the base design, fistly I downloaded a model from thingnivers and designed a laser holder from.
-<img src="/friendred_blog/assets/images/laser_holder.png">
+<img src="/friendred_blog/assets/images/laser_holder.png" width="330">
+<img src="/friendred_blog/assets/images/laser_arm.png" width="330">
 <img src="/friendred_blog/assets/images/top_view_lasers.png">
 
 29th of June, the gole was trying to sorve the problem of conecting lasers to the laptop, Thanks to Roy, I could use the xBee (with XBee shield and XBee adaptor) to replace the wifi module, I haven't tried it yet, but will try it as soon as I received the conponenets. also with Roy's help, I could simulate the lasers, for now I managed to make a nice movement by
@@ -110,6 +112,7 @@ for the working progree show, I will present the demosntration of how these 6 mo
 <iframe src="https://player.vimeo.com/video/278129503" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 for the next step if I want to make a specific pattern, I can try to make all the lasrts point to a specific location (this could be used as a part of the performance, for example all the laser point folloing up the daners torso position). I could also try to make a more complex pattern out of ot as long as I have the way to make a single point tilt and pan to a specifi clocation. so I could maybe use noise function to manipulate it. Also, you can make them swap the position since they had a sibsific shape, like cross, like square. that would be crazy
+
 
 <img src="/friendred_blog/assets/images/Laser_simulation2.png">
 
@@ -183,6 +186,10 @@ Fabricating metals, for now,  I fabricated the metal tructure consisted of two r
 what's the next step!!!!
 19th June--spend an day to drill the MDF and arcrylic board onto the structure, for the arcrylic, the frangibility of the material, so I had to drill a whole first, then use self drilling screws go through it.
 
+<img src="/friendred_blog/assets/images/fabrication.png">
+
+<img src="/friendred_blog/assets/images/fabrication2.png">
+
 <img src="/friendred_blog/assets/images/metal_1.JPG">
 
 <img src="/friendred_blog/assets/images/metal_2.JPG">
@@ -194,3 +201,5 @@ what's the next step!!!!
 
 the face maks are for two different performers, the mask ideally would be made out of matel structure and using the two day/see through mirror arcylic board, thus when performers are wearing it, the other side can reflects the lights, the side close to performer can see through
 <img src="/friendred_blog/assets/images/face_mask_f.jpg">
+
+<img src="/friendred_blog/assets/images/test1.JPG">
