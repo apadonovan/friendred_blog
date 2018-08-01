@@ -165,6 +165,31 @@ for(x= 1; x<1000; x++)  //Loop the forward stepping enough times for motion to b
 If you put delay(1), the compete pause will be 2ms per time, since 1000ms per second, so 1000/2=500ms per second
 </font>
 
+#lighting
+<font size="2">
+so the problem of not lighting up, I am not absolutly sure yet, but it could be I used breadboard, nevetheless, I changed the pin which is supposeed to connect to the ground to the thicker wire and coennct to the terminal of the led strip directly, somehow it worked. Please remember that you tried to connect ground pin to the power supply negtive onece, it couldn't work
+no the first LED strip will have the dimming effect from the beginning to the end.!
+
+I used the same methord to connect the other lights, somehow it couldn't work as well! fantastic! Through my debug, I think the problem was either the connection of the wire of the data pin or I burned the resistor accidently. But I thought it was some problems like arduino ran out of memory.
+
+</font>
+it also too two days to put two lights strips in the structure
+<img src="/friendred_blog/assets/images/lights1.JPG">
+<img src="/friendred_blog/assets/images/lights2.JPG">
+<img src="/friendred_blog/assets/images/lights3.JPG">
+<img src="/friendred_blog/assets/images/lights4.JPG">
+
+<iframe src="https://player.vimeo.com/video/282719863" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/282719863">light_testing</a> from <a href="https://vimeo.com/user41998022">Friendred</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+## projection simulation
+
+
+<img src="/friendred_blog/assets/images/projection_S.JPG">
+
+<iframe width="640" height="564" src="https://player.vimeo.com/video/282720648" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
+
 ##software
 
 <font size="2">
@@ -203,3 +228,13 @@ the face maks are for two different performers, the mask ideally would be made o
 <img src="/friendred_blog/assets/images/face_mask_f.jpg">
 
 <img src="/friendred_blog/assets/images/test1.JPG">
+
+#kinect skeleton tracking with laser visulisation
+
+<img src="/friendred_blog/assets/images/skeleton.png">
+
+<iframe src="https://player.vimeo.com/video/280373995" width="640" height="357" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/280373995">laser_skel_simulation</a> from <a href="https://vimeo.com/user41998022">Friendred</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+1st of Augest
+<img src="/friendred_blog/assets/images/fundation.JPG">
