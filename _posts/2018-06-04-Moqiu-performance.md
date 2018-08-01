@@ -119,6 +119,21 @@ for the next step if I want to make a specific pattern, I can try to make all th
 
 <iframe src="https://player.vimeo.com/video/278519822" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
+<img src="/friendred_blog/assets/images/laser_army.JPG">
+
+<img src="/friendred_blog/assets/images/wire_army.JPG">
+
+<img src="/friendred_blog/assets/images/lable_wire.JPG">
+<img src="/friendred_blog/assets/images/fundation_L.JPG">
+<img src="/friendred_blog/assets/images/drill_whoel_f.JPG">
+<img src="/friendred_blog/assets/images/crimple.JPG.png">
+
+
+
+
+
+
+
 ##Motors
 unipolar and bipolar:
 <font size="2">
@@ -189,6 +204,8 @@ it also too two days to put two lights strips in the structure
 <img src="/friendred_blog/assets/images/projection_S.JPG">
 
 <iframe width="640" height="564" src="https://player.vimeo.com/video/282720648" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
+
+projection_S2.JPG
 
 ##software
 
