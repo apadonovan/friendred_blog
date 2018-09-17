@@ -7,9 +7,10 @@ tags: laser, simulation
 comments: true
 ---
 
-<font size="2">
+<font size="3">
 29th of June, the goal was trying to solve the problem of connecting lasers with open frameworks, one of the options is using the XBee (with XBee shield and XBee adaptor). Another option is using photon wifi module. I haven't tried them both yet. but I will run some tests as soon as I received the components.
 </font>
+
 
 ###### some code in Open Frameworks in order to sync the pan and tilt value to the micro servo motor
 
@@ -18,7 +19,7 @@ lasers[i].setPanTilt(pan, tilt);//this is the basic line of the test
 lasers[i].setPanTilt(sin(ofDegToRad(ofGetElapsedTimef()*10))*360*i/lasers.size(), tilt*i/lasers.size());
 ```
 
-<font size="2">
+<font size="3">
 The next step is to make a system of how I decide the aesthetics of lasers movements following up the performers
 and even with XBee wifi module, I still have to find a way to deconstruct and reconstruct the data from Open Frameworks to Arduino. This is a technical challenge as I will have to communicate with 40 lasers, 80 server motors, two stepper motors and three LED lights strips witch has 600 pixels on it. Each laser module will have three pins, which means I will need a micro controller have 40*3=120 pinouts, so for now I have a MEGA, then 53 pins, so maybe I need another two MEGA? That was the question I asking myself, but lucky enough I changed plan in the end, I used servo drivers instead of connecting each servo to the pinout directly.
 </font>
