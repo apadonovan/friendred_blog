@@ -21,15 +21,12 @@ The immersive space morphs and alters with light and becomes solid, its pressure
 <img src="/friendred_blog/assets/images/scene_2_2.jpg">
 ###### Cinema4D rendeing
 
-
-
 -----
-## Fabrication:
-## Circle structure
+## Fabrication: Designed in Fusion 360
+
 <font size="2">
-This piece ideally should be hanging on the ceiling, the stepper motor (Fig.5) on the top would control the ‘circle’ spin horizontally and the other two motors (Fig.2) on the side will be used to making the pipe (Fig.1) move vertically. The profile of the circle (Fig.3) is a ‘U’ shape, which LED strip can be put in the notch of the circle.
-One of the biggest challenge is the fabrication of the installation, the material could be aluminium, plywood or acrylic. The idea material is aluminium, which economically more expansive than the plywood and technically harder to fabricate.
 </font>
+<img src="/friendred_blog/assets/images/structure_recording3.gif">
 
 ###tech diagram
 <img src="/friendred_blog/assets/images/tech_diagram.png">
