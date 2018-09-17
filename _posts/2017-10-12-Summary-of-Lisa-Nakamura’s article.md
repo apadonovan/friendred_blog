@@ -26,6 +26,8 @@ Essentially, indigenous Indian women are inseparable with the electronic digital
 
 When looking at roots of digital media, we can realize the ingenuous women of color had significant influence and roles in the circuit of development of electronic manufacture. Racialization and culture production was something that women changed the structure of in the postindustrial age. Balancing the realm beyond economic value could be the next problem entrepreneurs need to face.
 
+
 **Reference:**
+
 
 Nakamura, L., Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture. American Quarterly 66, no. 4 (2014): 919–941.
