@@ -7,13 +7,12 @@ tags: Racialization, Indigenous
 comments: true
 ---
 
-<font size="2">
-Donna Haraway ironically indicated women of color as the linchpin of electronic market. Navajo women as Cyborg bodies enhanced and enforced attention towards utilizing the virtues of gender and race to provide the necessary human labor. This led to unequal enforcement working in the electronics plant due to the physical characteristics, such as ‘nimble fingers’, they had. Given that Indian women classically had high preponderance towards material craft, because of temperament, culture and gender. Fairchild Semiconductor, a pioneering chip manufacture in Silicon Valley, outsourced goods to Asia in the seventies. In 1973, they started moving electronic manufacture to southeast Asia, Mexico and Southern California to confront the obstacles of seeking cheaper labours and lowering costs.  
-</font>
 
-<font size="2">
+Donna Haraway ironically indicated women of color as the linchpin of electronic market. Navajo women as Cyborg bodies enhanced and enforced attention towards utilizing the virtues of gender and race to provide the necessary human labor. This led to unequal enforcement working in the electronics plant due to the physical characteristics, such as ‘nimble fingers’, they had. Given that Indian women classically had high preponderance towards material craft, because of temperament, culture and gender. Fairchild Semiconductor, a pioneering chip manufacture in Silicon Valley, outsourced goods to Asia in the seventies. In 1973, they started moving electronic manufacture to southeast Asia, Mexico and Southern California to confront the obstacles of seeking cheaper labours and lowering costs.  
+
+
 Fairchild’s insourcing plan had a remarkable early success in indigenous areas such as America and Mexico at the beginning. But with an overwhelmingly inappropriate percentile of the labor force arrangement, and the uncertainties of the availability of immigrant women of color, Fairchild closed the plant in the end.
-</font>
+
 
 <font size="2">
 The chairman of Navajo nation, Raymond Nakai, rebranded the Navajo nation as an industrialization community that formed identity of hyper modernism by seducing light-industries with possession of a delicate artisanal skills.
