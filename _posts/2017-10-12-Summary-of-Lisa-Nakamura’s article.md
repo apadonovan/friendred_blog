@@ -18,17 +18,23 @@ The Fairchild’s 1969 brochure featured the transition from handcraftsmanship t
 
 The Navajo women were peripatetic between wage labor and creative-culture labor, but defined as an informationalized “creative class” by social media releases and journalistic accounts. As Navajo women’s innate abilities were bound by reservation strategies sacrificing creativities and personal freedom.&nbsp&nbsp
 
-Eventually, the worker and environment in the Navajo nation was involved in ironically ‘a shell game’. They had to face many health issues among production workers soaking in an environment of chemical exposure. Semiconductor manufacture utilized preserved Navajo culture as rhetoric to maximize economic benefits.&nbsp&nbsp
 
-Fairchild closed the plant, claiming it was an unstable labor environment, but presumably moved operations offshore, pursuing the benefits of lower wages and tax incentives.&nbsp&nbsp
+Eventually, the worker and environment in the Navajo nation was involved in ironically ‘a shell game’. They had to face many health issues among production workers soaking in an environment of chemical exposure. Semiconductor manufacture utilized preserved Navajo culture as rhetoric to maximize economic benefits.
+<br/>
 
-Essentially, indigenous Indian women are inseparable with the electronic digital platform. Thus, the invisible female labor force contributed the whole digital platform as a dispensable part of high-tech electronics circuit manufacture process. This was because of their mobility, flexibility, dexterity and low expectations of pay. The user of technology always pays more attention on the side of digital platform representing reception and interface. They take deeper parts of the hierarchy of the circuits, such as code platforms and form for granted. Therefore, people often miss the core parts of digital media which are racial and gender formations.&nbsp&nbsp
+Fairchild closed the plant, claiming it was an unstable labor environment, but presumably moved operations offshore, pursuing the benefits of lower wages and tax incentives.
+<br/>
 
-When looking at roots of digital media, we can realize the ingenuous women of color had significant influence and roles in the circuit of development of electronic manufacture. Racialization and culture production was something that women changed the structure of in the postindustrial age. Balancing the realm beyond economic value could be the next problem entrepreneurs need to face.&nbsp&nbsp
+Essentially, indigenous Indian women are inseparable with the electronic digital platform. Thus, the invisible female labor force contributed the whole digital platform as a dispensable part of high-tech electronics circuit manufacture process. This was because of their mobility, flexibility, dexterity and low expectations of pay. The user of technology always pays more attention on the side of digital platform representing reception and interface. They take deeper parts of the hierarchy of the circuits, such as code platforms and form for granted. Therefore, people often miss the core parts of digital media which are racial and gender formations.
+<br/>
+
+When looking at roots of digital media, we can realize the ingenuous women of color had significant influence and roles in the circuit of development of electronic manufacture. Racialization and culture production was something that women changed the structure of in the postindustrial age. Balancing the realm beyond economic value could be the next problem entrepreneurs need to face.
+<br/>
 </font>
 
-**Reference:**&nbsp&nbsp
+**Reference:**
 
 <font size="2">
 Nakamura, L., Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture. American Quarterly 66, no. 4 (2014): 919–941.
+<br/>
 </font>
