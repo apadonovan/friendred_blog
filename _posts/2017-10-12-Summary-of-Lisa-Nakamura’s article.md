@@ -29,3 +29,4 @@ When looking at roots of digital media, we can realize the ingenuous women of co
 References
 
 
+Nakamura, L., Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture. American Quarterly 66, no. 4 (2014): 919–942
