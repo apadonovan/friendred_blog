@@ -14,7 +14,7 @@ Fairchild’s insourcing plan had a remarkable early success in indigenous areas
 
 The chairman of Navajo nation, Raymond Nakai, rebranded the Navajo nation as an industrialization community that formed identity of hyper modernism by seducing light-industries with possession of a delicate artisanal skills.
 
-<p>The Fairchild’s 1969 brochure featured the transition from handcraftsmanship to industrial electronics manufacturing by comparing geometric patterns with integrated circuits board, embodying the aesthetics of each. To contrast, Navajo women were depicted gazing at looms and microscopes to justify the resemblance between weaving rugs and soldering circuits.
+The Fairchild’s 1969 brochure featured the transition from handcraftsmanship to industrial electronics manufacturing by comparing geometric patterns with integrated circuits board, embodying the aesthetics of each. To contrast, Navajo women were depicted gazing at looms and microscopes to justify the resemblance between weaving rugs and soldering circuits.
 
 The Navajo women were peripatetic between wage labor and creative-culture labor, but defined as an informationalized “creative class” by social media releases and journalistic accounts. As Navajo women’s innate abilities were bound by reservation strategies sacrificing creativities and personal freedom.
 
