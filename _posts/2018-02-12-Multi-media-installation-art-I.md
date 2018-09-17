@@ -2,7 +2,7 @@
 layout: post
 title: "Multi-media installation art I"
 description: ""
-date: 2017-02-12
+date: 2018-02-12
 tags: Racialization, Indigenous
 comments: true
 ---

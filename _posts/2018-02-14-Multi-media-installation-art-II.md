@@ -2,7 +2,7 @@
 layout: post
 title: "Multi-media installation art II"
 description: ""
-date: 2017-02-14
+date: 2018-02-14
 tags: Art, Indigenous
 comments: true
 ---

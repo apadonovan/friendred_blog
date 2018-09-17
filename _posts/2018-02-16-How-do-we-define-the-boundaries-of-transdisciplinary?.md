@@ -2,7 +2,7 @@
 layout: post
 title: "How do we define the boundaries of transdisciplinary?"
 description: ""
-date: 2017-02-16
+date: 2018-02-16
 tags: Design, Transdisciplinary, Media, Arts, Performance
 comments: true
 ---
