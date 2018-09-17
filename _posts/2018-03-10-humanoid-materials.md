@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Humanoid materials"
+title: "The humanoid materials"
 description: ""
 date: 2018-03-10
 tags: Materials
