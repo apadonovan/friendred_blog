@@ -7,6 +7,7 @@ tags: Racialization, Indigenous
 comments: true
 ---
 
+<font size="2">
 Donna Haraway ironically indicated women of color as the linchpin of electronic market. Navajo women as Cyborg bodies enhanced and enforced attention towards utilizing the virtues of gender and race to provide the necessary human labor. This led to unequal enforcement working in the electronics plant due to the physical characteristics, such as ‘nimble fingers’, they had. Given that Indian women classically had high preponderance towards material craft, because of temperament, culture and gender. Fairchild Semiconductor, a pioneering chip manufacture in Silicon Valley, outsourced goods to Asia in the seventies. In 1973, they started moving electronic manufacture to southeast Asia, Mexico and Southern California to confront the obstacles of seeking cheaper labours and lowering costs.
 
 Fairchild’s insourcing plan had a remarkable early success in indigenous areas such as America and Mexico at the beginning. But with an overwhelmingly inappropriate percentile of the labor force arrangement, and the uncertainties of the availability of immigrant women of color, Fairchild closed the plant in the end.
@@ -24,7 +25,8 @@ Fairchild closed the plant, claiming it was an unstable labor environment, but p
 Essentially, indigenous Indian women are inseparable with the electronic digital platform. Thus, the invisible female labor force contributed the whole digital platform as a dispensable part of high-tech electronics circuit manufacture process. This was because of their mobility, flexibility, dexterity and low expectations of pay. The user of technology always pays more attention on the side of digital platform representing reception and interface. They take deeper parts of the hierarchy of the circuits, such as code platforms and form for granted. Therefore, people often miss the core parts of digital media which are racial and gender formations.
 
 When looking at roots of digital media, we can realize the ingenuous women of color had significant influence and roles in the circuit of development of electronic manufacture. Racialization and culture production was something that women changed the structure of in the postindustrial age. Balancing the realm beyond economic value could be the next problem entrepreneurs need to face.
+</font>
 
-Reference:
+**Reference:**
 
 Nakamura, L., Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture. American Quarterly 66, no. 4 (2014): 919–941.
