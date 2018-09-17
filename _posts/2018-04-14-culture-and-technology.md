@@ -1,4 +1,4 @@
-movement---
+---
 layout: post
 title: "culture and technology"
 description: ""

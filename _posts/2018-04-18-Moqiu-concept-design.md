@@ -1,4 +1,4 @@
-movement---
+---
 layout: post
 title: "Moqiu-concept-design"
 description: ""
@@ -6,6 +6,7 @@ date: 2018-04-18
 tags: technology, culture
 comments: true
 ---
+
 
 <font size="2">
 The accelerometer of the spinning beam will be detected to manipulate the sound system. The performer will be wearing a semi-transparent fabric or elastic plastic triggered by its altitude, it deflates when approximating to the ground, vice versa (Fig.1),(Fig.2).
