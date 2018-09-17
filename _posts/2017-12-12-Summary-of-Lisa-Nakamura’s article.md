@@ -7,7 +7,7 @@ tags: Racialization, Indigenous
 comments: true
 ---
 
-<font size="2">
+<font size="3">
 Donna Haraway ironically indicated women of color as the linchpin of electronic market. Navajo women as Cyborg bodies enhanced and enforced attention towards utilizing the virtues of gender and race to provide the necessary human labor. This led to unequal enforcement working in the electronics plant due to the physical characteristics, such as ‘nimble fingers’, they had. Given that Indian women classically had high preponderance towards material craft, because of temperament, culture and gender. Fairchild Semiconductor, a pioneering chip manufacture in Silicon Valley, outsourced goods to Asia in the seventies. In 1973, they started moving electronic manufacture to southeast Asia, Mexico and Southern California to confront the obstacles of seeking cheaper labours and lowering costs.
 
 Fairchild’s insourcing plan had a remarkable early success in indigenous areas such as America and Mexico at the beginning. But with an overwhelmingly inappropriate percentile of the labor force arrangement, and the uncertainties of the availability of immigrant women of color, Fairchild closed the plant in the end.
@@ -28,5 +28,6 @@ When looking at roots of digital media, we can realize the ingenuous women of co
 </font>
 
 **Reference:**
-
+<font size="3">
 Nakamura, L., Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture. American Quarterly 66, no. 4 (2014): 919–941.
+</font>
