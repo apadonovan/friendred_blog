@@ -12,6 +12,7 @@ comments: true
 </font>
 
 ###### some code in Open Frameworks in order to sync the pan and tilt value to the micro servo motor
+
 ```C++
 lasers[i].setPanTilt(pan, tilt);//this is the basic line of the test
 lasers[i].setPanTilt(sin(ofDegToRad(ofGetElapsedTimef()*10))*360*i/lasers.size(), tilt*i/lasers.size());
