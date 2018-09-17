@@ -255,3 +255,10 @@ the face maks are for two different performers, the mask ideally would be made o
 
 1st of Augest
 <img src="/friendred_blog/assets/images/fundation.JPG">
+
+13rd of Augest
+the problem is transfering data from mega master to maga slave. it worked with 12 motors on a borad. while I was trying to contol from one board and using the same serial data to the another boaord. firstly it couldn't work and then since I implemented the packetSerial library and add the instance in the arduino sendder and receiver . it wokred but with some kind of noises.
+
+after three days strucgging, the solution is that changing the bound rate! REALLY! not the wire, not the RXTX problem, not the code, not the memory and not the unknow number in the beginning of the code! BUT the bound rate. Bare in mind. this bond rate works higher than 115200 but then I tryied higher rate! crap. not working. it actally works with 230400
+
+what!!!!! THree days
