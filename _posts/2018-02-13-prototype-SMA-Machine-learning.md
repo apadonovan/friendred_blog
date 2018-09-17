@@ -8,7 +8,6 @@ tags: Draft, EssayProposal
 comments: true
 ---
 
-**Essay Plan 2:**
 <font size="2">
 Shape Memory Alloy(SMA) or the muscle wire, which has the performance can “remember” its pre-deformed shape via thermal energy. The type I used in here which consists of 50% titanium and 50% Nickle. It has been used in so many different domains including robotics, optometry, aircraft, telecommunication and dentistry etc. I interested in the materiality of the shape memory material and the expressivity of the body movements. Both of them can be elaborated as its “performance”.
 
