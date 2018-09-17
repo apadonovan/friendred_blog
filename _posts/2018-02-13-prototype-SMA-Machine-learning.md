@@ -8,9 +8,9 @@ tags: SMA, Prototype, Machine learning
 comments: true
 ---
 
-Shape Memory Alloy(SMA) or the muscle wire, which has the performance can “remember” its pre-deformed shape via thermal energy. The type I used in here which consists of 50% titanium and 50% Nickle. It has been used in so many different domains including robotics, optometry, aircraft, telecommunication and dentistry etc. I interested in the materiality of the shape memory material and the expressivity of the body movements. Both of them can be elaborated as its “performance”.
+Shape Memory Alloy(SMA) or muscle wire, has the ability to “remember” it's pre-deformed shape via thermal energy. The type I used here consists of 50% titanium and 50% Nickle. It has been used in many different domains including robotics, optometry, aircraft, telecommunication and dentistry etc. I am interested in the materiality of the shape memory material and the expressivity of body movements. Both of which can be elaborated as it's “performance”.
 
-There is a philosophical word, hylozoism, which means all matter has life. How can I create a scene which is able to interpolate and inhabit both characteristics and attributes to maximize the verisimilitude and liveness? I then tried to bridge the connection between deformation training methods of Shape Memory Material (SMM) and the machine learning algorithm (Neural Network) from hand gestures.
+There is a philosophical word, hylozoism, which means all matter has life. How can I create a scene which is able to interpolate and inhabit both characteristics and attributes to maximize the verisimilitude and liveness? I then tried to bridge the connection between deformation training methods of Shape Memory Material (SMM) and machine learning algorithms (Neural Network) from hand gestures.
 
 <img src="/friendred_blog/assets/images/sma-w-bouble.jpeg">
 
