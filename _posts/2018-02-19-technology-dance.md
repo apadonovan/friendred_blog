@@ -6,7 +6,6 @@ date: 2018-02-19
 tags: Wearables, Performance, Humancomputer, Interaction, Choreography
 comments: true
 ---
-<img src="/friendred_blog/assets/images/shade-licht.jpg">
 
 <font size="2">
 Integrating technology into dance is a quite common phenomenon recently, as the technology development. There is an exquisite relationship between dancer, dancers’ body, choreography structure and intimate technology. The data from the body can be regarded as a raw material employed in a performance, for example, performers’ EEG, EMG, haptic, trajectory data so on and so forth. In the second part, I indented to depict another sort of expressivity instead of the one I wrote above, which fully enrich the expressivity by gestures. Hacking the Body2.0 is a research project about biosensors, wearables and performance by Kate Sicchio. It represented the data as a medium or massager transmitter connecting body and sensory environments. What audience perceive connected to the side of the environments and active body movements. On the other hand, what performers sensate the nuances of biologic information etc.
