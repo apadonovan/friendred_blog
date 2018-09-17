@@ -8,7 +8,7 @@ comments: true
 ---
 
 <font size="2">
-A multi-media installation’s manifestation cannot be fixed, it differs from original art which stays inside the frame, and also has a multi-dimension, cross platform (web, installation, conceptual, hardware, software) and theoretical basis. The biggest distinction from conventional art is that it breaks space and time to make the spectator part of the art, with ‘interactive’ becoming the core communication method between art work and audience.
+A multi-media installation’s manifestation cannot be fixed, it differs from original art which stays inside the frame, and also has a multi-dimension, cross platform (web, installations, conceptual, hardware, software) and theoretical basis. The biggest distinction from conventional art is that it breaks space and time to make the spectator part of the art, with ‘interactive’ becoming the core communication method between art work and audience.
 
 In conclusion, multi-media installation art consists of three portions, the first one is the “Object”, using a ready made object or raw materials to make artwork, such as Duchamp, fountain. To be more specific, he used a ready made urinal as his object and then imposed a special concept onto it.
 
