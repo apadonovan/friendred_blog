@@ -8,7 +8,7 @@ comments: true
 ---
 
 <font size="2">
-The prefix trans is quite interesting for me, it is a good point to start with defining the definition of transdisciplinary arts. The genre of the arts can be varied, the way it is employed by artists is omnifarious. We always ponder the reasons as to why we live in an age which different disciplines can be widely penetrated and strongly projected into each other in transdisciplinary combinations. There could be multiple reasons, including the development of capitalism, economic crises, revolutions within contemporary arts as well as postmodern digital media demand.
+The prefix trans is quite interesting for me, it is a good point to start with the definition of transdisciplinary arts. The genre of the arts can be varied, the way it is employed by artists is omnifarious. We always ponder the reasons as to why we live in an age which different disciplines can be widely penetrated and strongly projected into each other in transdisciplinary combinations. There could be multiple reasons, including the development of capitalism, economic crises, revolutions within contemporary arts as well as postmodern digital media demand.
 
 We as transdisciplinary artists stand for across and beyond. The different core aspects of entities from different domains can be used as pigment and brushes to picture and question “novelty” itself. These entities can be juxtaposed independently or be the elements of the process by which the equilibrium of homogeneous is reached.
 
